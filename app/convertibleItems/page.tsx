@@ -108,7 +108,7 @@ export default function ConvertibleItems() {
         <div className="flex justify-between">
           <div></div>
           <div>Convertible Items</div>
-          <div>X</div>
+          <div><img src="close.png" className='w-[30px]' alt="" /></div>
         </div>
         <div
           onClick={() => {
